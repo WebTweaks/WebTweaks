@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm 🅙🅞🅗🅝</h1>
 <h3 align="center">A passionate frontend developer from Kenya</h3>
-<img align="right"  alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
+<img align="center" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=webfrontwizard" alt="webfrontwizard" /></a> </p>
 
@@ -12,7 +12,7 @@
 
 - 💫 Let's actively engage in Telegram [t.me/webfrontwizard](t.me/webfrontwizard)
 
-- 🗨️ Ask me about **react...**
+- 🗨️ Ask me about **react**
 
 - 📧 How to reach me **webfrontwizard@gmail.com**
 
