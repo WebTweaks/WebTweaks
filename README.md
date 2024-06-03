@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=webfrontwizard" alt="webfrontwizard" /></a> </p>
 
-- 🖥️ I’m currently working on [checkers(player vs comp)](https://drive.google.com/drive/folders/14e_itR8CBJ5gUHnwcJlCYc15IZQc1Y8J)
+- 🖥️ I’m currently working on [checkers(player vs comp)](https://drive.google.com/drive/folders/14e_itR8CBJ5gUHnwcJlCYc15IZQc1Y8J?usp=drive_link)
 
 - 🤩 I’m currently learning **Html, Css and Javascript**
 
