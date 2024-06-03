@@ -8,7 +8,7 @@
 
 - 🤩 I’m currently learning **Html, Css and Javascript**
 
-- 🤝 Meanwhile, I’m looking to collaborate on **Frontend Development Related Projects**
+- 🤝 Meanwhile, I’m looking to collaborate on **Web Development Projects**
 
 - 💫 Let's actively engage in Telegram [t.me/WebTweaks](t.me/WebTweaks)
 
