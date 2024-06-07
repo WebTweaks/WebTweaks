@@ -1,4 +1,4 @@
-<h1 align="left">HELLO THERE 👋! I'M JOHN KALOKI</h1>
+<h1 align="left">HELLO THERE 👋! I'M JOHN</h1>
 <h3 align="left">A PASSONATE FRONTED DEVELOPER FROM KENYA</h3>
 <img align="left"  alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
 
