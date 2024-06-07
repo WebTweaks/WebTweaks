@@ -6,7 +6,7 @@
 
 - 🖥️ I’m currently working on **checkers (player vs comp)**
 
-- 🤩 I’m currently learning **Html, Css and Javascript**
+- 🤩 I’m also learning **Html, Css and Javascript**
 
 - 🤝 Meanwhile, I’m looking to collaborate on **Web Development Projects**
 
@@ -21,7 +21,7 @@
 <h3 align="left">CONNECT WITH ME:</h3>
 <p align="left">
 <a href="https://twitter.com/webtweaks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="webtweaks" height="30" width="40" /></a>
-<a href="https://instagram.com/webfrontwizard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="webfrontwizard" height="30" width="40" /></a>
+<a href="https://instagram.com/webfrontwizard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Webtweaks" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">LANGUAGES AND TOOLS:</h3>
