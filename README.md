@@ -1,5 +1,5 @@
 <h1 align="left">HELLO THERE 👋 I'M JOHN</h1>
-<h3 align="left">A PASSONATE FRONTED DEVELOPER FROM KENYA</h3>
+<h3 align="left">A PASSIONATE FRONTED DEVELOPER FROM KENYA</h3>
 <img align="left"  alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=webtweaks" alt="webtweaks" /></a> </p>
@@ -11,8 +11,6 @@
 - 🤝 Meanwhile, I’m looking to collaborate on **Web Development Projects**
 
 - 💫 Let's actively engage in Telegram [t.me/WebTweaks](t.me/WebTweaks)
-
-- 🗨️ Ask me about **react**
 
 - 📧 How to reach me **webfrontwizard@gmail.com**
 
