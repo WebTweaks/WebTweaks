@@ -12,8 +12,6 @@
 
 - 💫 Let's actively engage in [Telegram](t.me/jonkaloki)
 
-- 📧 How to reach me **me.johnkaloki@gmail.com**
-
 - 💢 Fact about me: **I do what I like, I like what I do!**
 
 <h3 align="left">CONNECT WITH ME:</h3>
