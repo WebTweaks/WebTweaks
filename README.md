@@ -4,15 +4,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=webtweaks" alt="webtweaks" /></a> </p>
 
-- 🖥️ I’m currently working on **checkers (player vs comp)**
+- 🖥️ I’m currently working on a **Private Website**
 
 - 🤩 I’m also learning **Html, Css and Javascript**
 
 - 🤝 Meanwhile, I’m looking to collaborate on **Web Development Projects**
 
-- 💫 Let's actively engage in Telegram [t.me/WebTweaks](t.me/WebTweaks)
+- 💫 Let's actively engage in Telegram [t.me/WebTweaks](t.me/jonkaloki)
 
-- 📧 How to reach me **webfrontwizard@gmail.com**
+- 📧 How to reach me **me.johnkaloki@gmail.com**
 
 - 💢 Fact about me: **I do what I like. Moreover, I like what I do 🤔**
 
