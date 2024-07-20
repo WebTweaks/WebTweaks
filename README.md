@@ -10,7 +10,7 @@
 
 - 🤝 Meanwhile, I’m looking to collaborate on **Web Development Projects**
 
-- 💫 Let's actively engage in Telegram [t.me/WebTweaks](t.me/jonkaloki)
+- 💫 Let's actively engage in Telegram [jonkaloki](t.me/jonkaloki)
 
 - 📧 How to reach me **me.johnkaloki@gmail.com**
 
