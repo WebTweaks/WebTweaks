@@ -8,11 +8,11 @@
 
 - 🤩 I’m also learning **Html, Css and Javascript**
 
-- 🤝 Meanwhile, I’m looking to collaborate on **Web Development Projects**
+- 🤝 Meanwhile, I’m looking forward to collaborate on **Web Development Projects**
 
-- 💫 Let's actively engage in [Telegram](t.me/jonkaloki)
+- 💫 Engage: [Telegram](t.me/jonkaloki)
 
-- 💢 Fact about me: **I do what I like, I like what I do!**
+- 💢 Fact: **I do what I like, I like what I do!**
 
 <h3 align="left">CONNECT WITH ME:</h3>
 <p align="left">
