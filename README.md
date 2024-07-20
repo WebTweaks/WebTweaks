@@ -1,14 +1,14 @@
 <h1 align="left">HELLO THERE 👋 I'M JOHN</h1>
-<h3 align="left">A PASSIONATE FRONTED DEVELOPER FROM KENYA</h3>
+<h3 align="left">A PASSIONATE FRONTEND DEVELOPER FROM KENYA</h3>
 <img align="left"  alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=webtweaks" alt="webtweaks" /></a> </p>
 
-- 🖥️ I’m currently working on a **Private Website**
+- 🖥️ Actively working on a **Private Website**
 
-- 🤩 I’m also learning **Html, Css and Javascript**
+- 🤩 Learning in depth **Html, Css and Javascript**
 
-- 🤝 Meanwhile, I’m looking forward to collaborate on **Web Development Projects**
+- 🤝 Looking forward to collaborate on **Web Development Projects**
 
 - 💫 Engage: [Telegram](t.me/jonkaloki)
 
